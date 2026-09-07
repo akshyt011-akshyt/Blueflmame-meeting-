@@ -1,0 +1,6 @@
+{
+  "name": "Blueflmame Meeting",
+  "description": "Real-time online meeting and classroom platform featuring live video, screen sharing, learning materials, and view-only student mode.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
